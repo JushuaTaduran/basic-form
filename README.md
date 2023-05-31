@@ -14,6 +14,4 @@ Create a Job Application Form:
 	12. Lastly, style it as you which (Don't use CSS)
 
 
-
-
-![image](https://github.com/JushuaTaduran/basic-form/assets/100643650/f7773a50-0a63-4c89-9fef-4bc111c4f25d)
+![image](https://github.com/JushuaTaduran/basic-form/assets/100643650/a335ffdf-456a-4b1f-b207-bc6d376ac28d)
